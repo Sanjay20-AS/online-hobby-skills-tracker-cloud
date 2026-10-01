@@ -1,0 +1,3 @@
+-- PostgreSQL reference schema.
+-- The application can create tables automatically for beginner-friendly local setup.
+-- For production, use Alembic migrations.
